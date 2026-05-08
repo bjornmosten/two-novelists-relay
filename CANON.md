@@ -1,5 +1,6 @@
-FACT: The city is set in the late 22nd century, decades after a catastrophic global flood.
-FACT: The constant weather is heavy, persistent rain and a thick, humid atmosphere.
-FACT: Two prominent landmarks are the submerged Old Library and the elevated Sky-Piercer Market.
-FACT: Wasting potable water is the most severe cultural taboo.
-FACT: The primary currency is Aqua-tokens, representing units of desalinated water or energy.
+FACT: Setting Era: Neo-Victorian, 150 years after the Great Deluge.
+FACT: Weather Constant: Perpetual fog, punctuated by intense rainstorms.
+FACT: Landmark: The Obsidian Tower, a pre-Deluge monolith.
+FACT: Landmark: The Shifting Docks, a treacherous network of floating structures.
+FACT: Cultural Taboo: Masking one's face at all times is mandatory.
+FACT: Currency: Glimmer-shards, salvaged pre-Deluge materials.
